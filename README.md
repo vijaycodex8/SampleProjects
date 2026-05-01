@@ -22,7 +22,7 @@ AI Interview Preparation Bot
 Blockchain-Based Secure Digital Identity System
 
 ### 3. Project Name 3
-AI-Based Resume Screening for Hiring
+AI-Based Resume Screening for Government Hiring
 
 ### 4. Project Name 4
 ERP Management System — Django Enterprise
